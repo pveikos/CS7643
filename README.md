@@ -7,5 +7,7 @@ CS7643 Project. Optimizing a Recipe for Diet Based on an Image
 * Esteban Fajardo
 
 # Binder
-We created an online app that allows users to use our model online. Click "launch binder":
+We created an online app that allows users to use our model online. Click "launch binder".
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/efajard/CS7643/main?urlpath=voila%2Frender%2Fthe-saturdays.ipynb)
